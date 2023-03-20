@@ -1,0 +1,28 @@
+.signoutbtn {
+background-color: white;    
+border: 1px solid #0352a2;
+    color: #0352a2;
+}
+
+.signoutbtn:hover {
+    color: #0352a2;
+    background-color: white;  
+
+}
+
+.link {
+    text-decoration: none;
+    margin-left: 15px;
+    color: #505050;
+    transition: color ease-in-out 300ms;
+}
+
+
+.active-link {
+
+    text-decoration: none;
+    margin-left: 15px;
+    border-bottom: 2px solid #0352a2;
+    transition: color ease-in-out 300ms;
+    color: #0352a2;
+}
